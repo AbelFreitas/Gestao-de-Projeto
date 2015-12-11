@@ -1,1 +1,1 @@
-Este repositorio será utilizado para a partilha dos ficheros de programação referentes a aplicação inq+
+Este repositorio sera utilizado para a partilha dos ficheros de programacao referentes a aplicacao inq+
